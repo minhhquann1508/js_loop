@@ -1,0 +1,16 @@
+.form {
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+button {
+    background-color: pink;
+}
+.result-1,
+.result-2 {
+    background-color: pink;
+    margin: 10px 0;
+    padding: 8px;
+    display: none;
+}
